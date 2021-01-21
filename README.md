@@ -1,5 +1,7 @@
 # NICF
+- added conda environment / requirements
+
 
 ## TODO:
-- add requirements.txt
+
 - add docstrings
