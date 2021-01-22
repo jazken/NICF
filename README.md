@@ -1,7 +1,9 @@
 # NICF
-- added conda environment nicf.yml file
+- added conda environment / requirements
+
 
 ## TODO:
+
 - add docstrings
 
 
